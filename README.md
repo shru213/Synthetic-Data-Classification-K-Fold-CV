@@ -1,6 +1,7 @@
 # Synthetic Data Classification & K-Fold CV 📊
 
 ![K-Fold Cross Validation Splits](kfold_splits.png)
+
 *Visualizing the train/test index splits in a 5-Fold Cross Validation process.*
 
 ## 📖 Project Overview
